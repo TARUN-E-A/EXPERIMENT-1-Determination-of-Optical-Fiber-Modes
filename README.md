@@ -59,5 +59,7 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
-## Tabulation
-## Result
+## Tabulation and Calculation:
+
+## Result:
+ Thus the Mode Characteristics of Fiber Optic Cable is observed and verified successfully.
